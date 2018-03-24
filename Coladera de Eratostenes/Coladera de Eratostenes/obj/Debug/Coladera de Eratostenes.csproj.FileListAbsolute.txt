@@ -1,0 +1,9 @@
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Coladera de Eratostenes\Coladera de Eratostenes\bin\Debug\Coladera de Eratostenes.exe.config
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Coladera de Eratostenes\Coladera de Eratostenes\bin\Debug\Coladera de Eratostenes.exe
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Coladera de Eratostenes\Coladera de Eratostenes\bin\Debug\Coladera de Eratostenes.pdb
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.csprojResolveAssemblyReference.cache
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera_de_Eratostenes.Form1.resources
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera_de_Eratostenes.Properties.Resources.resources
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.csproj.GenerateResource.Cache
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.exe
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.pdb
